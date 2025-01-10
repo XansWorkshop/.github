@@ -6,11 +6,11 @@ I have a website. Visit https://xansworkshop.com/ to see it.
 
 ## Games
 
-- [The Conservatory](https://conservatory.xansworkshop.com)
+- [The Conservatory](https://xansworkshop.com/conservatory)
 
 ## Software and Libraries
 
-- ooooOOOooOOoooOoo there's nothing here yet!!! I'm still setting this up! How are you here so early anyway?
+- ooooOOOooOOoooOoo there's nothing here yet!!! I'm still setting this up!
 
 <!--
 
