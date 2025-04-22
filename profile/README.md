@@ -10,7 +10,7 @@ I have a website. Visit https://xansworkshop.com/ to see it.
 
 ## Software and Libraries
 
-- ooooOOOooOOoooOoo there's nothing here yet!!! I'm still setting this up!
+- [Godot Shader Variant Material](https://github.com/XansWorkshop/Godot-Variant-Shaders/)
 
 <!--
 
