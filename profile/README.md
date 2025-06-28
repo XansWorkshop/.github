@@ -10,6 +10,7 @@ I have a website. Visit https://xansworkshop.com/ to see it.
 
 ## Software and Libraries
 
+- [Godot: Conservatory Edition](https://github.com/XansWorkshop/conservatory-godot)
 - [Godot Shader Variant Material](https://github.com/XansWorkshop/Godot-Variant-Shaders/)
 
 <!--
